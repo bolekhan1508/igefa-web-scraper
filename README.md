@@ -8,8 +8,8 @@ This project is a Python-based asynchronous web scraper that collects product da
 
 Налаштування середовища та запуск скрипта
 1. Клонування репозиторію
-git clone https://github.com/bolekhan1508/igefa-web-scraper.git
-cd igefa-web-scraper
+"git clone https://github.com/bolekhan1508/igefa-web-scraper.git"
+"cd igefa-web-scraper"
 2. Створення та активація віртуального середовища
 Create and activate a virtual environment.
 На Windows:
